@@ -18,7 +18,7 @@ bool checkPrime(int n){
 
 int main(){
 
-    int number = 1010;
+    int number = 5;
     if (checkPrime(number)){
         cout<<"prime";
     }else{
